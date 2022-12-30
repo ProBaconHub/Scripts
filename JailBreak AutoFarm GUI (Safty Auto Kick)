@@ -1,0 +1,6 @@
+--Auto Farm GUI for JailBreak
+loadstring(game:HttpGet('https://scripts.luawl.com/14245/JailbreakerFree.lua'))()
+wait(300)
+game.Players:WaitForChild("LocalPlayer"):Kick("You are kicked by Pro Bacon \r Dont AFK farm for too long or else, you will get baned.") --Safty kick by Pro Bacon
+wait(10)
+game.Players:WaitForChild("LocalPlayer"):Kick("This is not ban, so you can rejoin again.")
