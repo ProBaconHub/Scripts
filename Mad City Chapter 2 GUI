@@ -1,0 +1,33 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/max2007killer/III-MAD-CITY/main/Protected%20(94).lua"))()
+wait(5)
+game.StarterGui:SetCore("SendNotification", {
+           Icon = " ";
+            Title = "Pro Bacon",
+            Text = "Current key: Madcity755157 \r Last checked date: 31/12/2022"
+})
+wait(5)
+game.StarterGui:SetCore("SendNotification", {
+           Icon = " ";
+            Title = "Pro Bacon",
+            Text = "Press "F9" or enter "/console" in chat to view key again"
+})
+wait(1)
+print("Current key: Madcity755157")
+wait(1)
+print("Current key: Madcity755157")
+wait(1)
+print("Current key: Madcity755157")
+wait(1)
+print("Current key: Madcity755157")
+wait(1)
+print("Current key: Madcity755157")
+wait(1)
+print("Current key: Madcity755157")
+wait(1)
+print("Current key: Madcity755157")
+wait(1)
+print("Current key: Madcity755157")
+wait(1)
+print("Current key: Madcity755157")
+wait(1)
+print("Current key: Madcity755157")
