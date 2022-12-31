@@ -1,0 +1,9 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader"))()
+
+
+--key is gon
+game.StarterGui:SetCore("SendNotification", {
+           Icon = "";
+            Title = "Pro Bacon", 
+            Text = "Current key is: gon \r Last checking date: 31/12/2022"
+})
